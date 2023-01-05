@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#one{
+    background-color: purple;
+}
+p{
+    font-size: 20px;
+}
+#two{
+    padding-left: 30px;
+    color:yellowgreen;
+    font-size: 45px;
+    float: right;
+    margin-right: 200px;
+    margin-top: -700px;
+}
+.text{
+    margin-top: 250px;
+}

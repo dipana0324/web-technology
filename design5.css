@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#one{
+    background-color: green;
+    padding-left: 30px;
+    color: white;
+    font-weight: 45px;
+    font-weight: 300;
+    flex: 50%
+}
+#two{
+    background-color: darkmagenta;
+    padding-left: 30px;
+    color: white;
+    font-size: 45px;
+    font-weight: 300;
+    flex:50%
+}
+#three{
+    background-color: blue;
+    padding-left: 30px;
+    color:white;
+    font-size: 45px;
+    font-weight: 300;
+    flex: 50%
+}
+#first{
+    display: flex;
+
+}
+h1{
+    text-align: center;
+    padding-button: 50px;
+    padding-top: 40px;
+    background-color:orange;
+}
+h6{
+    font-size: 20px;
+    padding-top: 30px;
+    padding-buttom: 80px;
+}
+p{
+    font-size: 20px;
+}

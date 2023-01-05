@@ -1,0 +1,28 @@
+#one{
+    background-color: olive;
+    flex:60%
+    padding-left: 30px;
+    color: white;
+    font-size: 45px;
+    font-weight: 500;
+}
+p{
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+button{
+    align: right;
+    color: white;
+    background-color: darkorange;
+}
+#two{
+    background-color: mediumorchid;
+    flex:40%
+}
+div{
+    display:flex;
+    height:770px;
+}
+body{
+    background-color: rgb(49, 30, 30);
+}
